@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListComparision()
+comment1.params=iterations
+comment1.target=void\ runTests(int)
+comment2.params=list\ iterations
+comment2.target=double\ testAdd(java.util.List,\ int)
+comment3.params=list\ iterations
+comment3.target=double\ testGet(java.util.List,\ int)
+comment4.params=list\ iterations
+comment4.target=double\ testRemove(java.util.List,\ int)
+numComments=5

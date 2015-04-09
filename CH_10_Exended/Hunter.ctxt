@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=active\ field\ location
+comment0.target=Hunter(boolean,\ Field,\ Location)
+comment1.params=actors
+comment1.target=void\ act(java.util.List)
+comment2.params=active
+comment2.target=void\ setActive(boolean)
+comment3.params=
+comment3.target=boolean\ isActive()
+numComments=4

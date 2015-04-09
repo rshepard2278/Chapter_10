@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=randomAge\ field\ location
+comment0.target=Bear(boolean,\ Field,\ Location)
+comment1.params=newFoxes
+comment1.target=void\ act(java.util.List)
+comment2.params=
+comment2.target=void\ incrementHunger()
+comment2.text=\r\n\ Make\ this\ fox\ more\ hungry.\ This\ could\ result\ in\ the\ fox's\ death.\r\n
+comment3.params=
+comment3.target=Location\ findFood()
+comment3.text=\r\n\ Look\ for\ rabbits\ adjacent\ to\ the\ current\ location.\r\n\ Only\ the\ first\ live\ rabbit\ is\ eaten.\r\n\ @return\ Where\ food\ was\ found,\ or\ null\ if\ it\ wasn't.\r\n
+comment4.params=
+comment4.target=int\ getBreedingAge()
+comment5.params=
+comment5.target=int\ getMaxAge()
+comment6.params=
+comment6.target=double\ getBreedProb()
+comment7.params=
+comment7.target=int\ getMaxLitter()
+comment8.params=field\ loc
+comment8.target=Animal\ popOneOut(Field,\ Location)
+numComments=9

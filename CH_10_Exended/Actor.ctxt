@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=newActors
+comment0.target=void\ act(java.util.List)
+comment1.params=
+comment1.target=boolean\ isActive()
+comment2.params=active
+comment2.target=void\ setActive(boolean)
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=randomAge\ field\ location
+comment0.target=Animal(boolean,\ Field,\ Location)
+comment1.params=
+comment1.target=boolean\ isAlive()
+comment2.params=
+comment2.target=void\ setDead()
+comment3.params=
+comment3.target=Location\ getLocation()
+comment4.params=newLocation
+comment4.target=void\ setLocation(Location)
+comment5.params=
+comment5.target=Field\ getField()
+comment6.params=newAnimals
+comment6.target=void\ act(java.util.List)
+numComments=7
